@@ -20,7 +20,7 @@ A novel strain of coronavirus — SARS-CoV-2 — was first detected in December 
 
 Question of intrest include:
 
-Which Countries have the highes amount of Deaths due to teh virus ?
+Which Countries have the highest amount of Deaths due to the virus ?
 
 Where in the world are you mostly like to die from the dieseas or in other words, where are the mortality rates the highest ?
 
