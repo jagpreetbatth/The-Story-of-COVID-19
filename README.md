@@ -33,4 +33,8 @@ How has the pandemic effected the world's econmomy?
 What is the future of the COVID-19 if left un-checked?
 
 
+All the data used in this project are taken from-
 
+Kaggle
+
+Feel free to use the code in the Jupyter notebook as you like.
