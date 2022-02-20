@@ -2,7 +2,7 @@
 Studying diseases progression of a Virus that caused deaths on a Pandemic scale.
 Covid-19-Data-Analysis
 
-https://user-images.githubusercontent.com/33099127/154866207-65a4bd1a-8eaf-4571-a2ab-370fedd007c2.png)
+![image](https://user-images.githubusercontent.com/33099127/154866236-9d20015c-87e3-4c05-bb17-6220d5c7b8da.jpeg)
 
 
 
