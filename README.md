@@ -16,7 +16,7 @@ $ pip install notebook
 
 Project Motivation
 
-A novel strain of coronavirus — SARS-CoV-2 — was first detected in December 2019 in Wuhan, a city in China’s Hubei province with a population of 11 million, after an outbreak of pneumonia without an obvious cause. The virus has now spread to a vast moajority of countries and territories across the globe and is characterized as a pandemic by the World Health Organization. COVID-19 took a toll on the world population since the first case was found.
+A novel strain of coronavirus — SARS-CoV-2 — was first detected in December 2019 in Wuhan, a city in China’s Hubei province with a population of 11 million, after an outbreak of pneumonia without an obvious cause. The virus has now spread to a vast majority of countries and territories across the globe and is characterized as a pandemic by the World Health Organization. COVID-19 took a toll on the world population since the first case was found.
 
 Question of intrest include:
 
