@@ -35,6 +35,6 @@ What is the future of the COVID-19 if left un-checked?
 
 All the data used in this project are taken from-
 
-https://www.kaggle.com/sudalairajkumar/covid19-in-india
+https://www.kaggle.com/imdevskp/corona-virus-report?select=covid_19_clean_complete.csv
 
 Feel free to use the code in the Jupyter notebook as you like.
