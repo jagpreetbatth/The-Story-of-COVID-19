@@ -18,7 +18,7 @@ Project Motivation
 
 A novel strain of coronavirus — SARS-CoV-2 — was first detected in December 2019 in Wuhan, a city in China’s Hubei province with a population of 11 million, after an outbreak of pneumonia without an obvious cause. The virus has now spread to a vast moajority of countries and territories across the globe and is characterized as a pandemic by the World Health Organization. COVID-19 took a toll on the world population since the first case was found.
 
-Question that are from intrest are -
+Question of intrest include:
 
 Which Countries have the highes amount of Deaths due to teh virus ?
 
@@ -28,7 +28,7 @@ Where are the highest incidence of COVID-19 populations?
 
 At the early stages of the pandemic, did we fail to react in time to control the spread of this Deadly disease?
 
-How has the pandemic effected teh world's econmomy?
+How has the pandemic effected the world's econmomy?
 
 What is the future of the COVID-19 if left un-checked?
 
